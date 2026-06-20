@@ -11,7 +11,26 @@ A full-stack Internship Portal developed using Spring Boot, React.js, and MySQL.
 - Admin Dashboard
 - Notifications
 - Contact Module
+- 
+## Screenshots
 
+### Login Page
+![Login Page](Screenshots/Login%20PAge.jpg)
+
+### Registration Page
+![Registration Page](Screenshots/Registration%20Page.jpg)
+
+### Student Dashboard
+![Student Dashboard](Screenshots/Student%20Dashboard.jpg)
+
+### Company Dashboard
+![Company Dashboard](Screenshots/Company%20Dashboard.jpg)
+
+### Admin Dashboard
+![Admin Dashboard](Screenshots/Admin%20Dashboard.jpg)
+
+### Internships Page
+![Internships Page](Screenshots/Internships%20Page.jpg)
 ## Tech Stack
 
 ### Frontend
